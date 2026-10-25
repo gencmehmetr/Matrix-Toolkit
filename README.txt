@@ -16,5 +16,5 @@ Matris çarpımında (Cij = Aij x Bij) sonuç matrisi Cij nin her bir elemanı A
 Birim Matris Matris Çarpımında etkisiz elemandır.  
 
 5- Vektör Normu Neyi Temsil Eder?
-(Bunun ne olduğunu anlamadım)
+(Bunun ne olduğunu tam olarak anladığımı söyleyemem)
 Bir vektörün uzaydaki büyüklüğünü, orjin noktasına uzaklığını temsil eder,, vektör büyüklüklerini kıyaslamak, hata ölçümü vb. amaçlarla kullanılır.
